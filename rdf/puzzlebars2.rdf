@@ -6,13 +6,13 @@
     <Seq>
       <li>
       <Description>
-        <em:version>15.11.24.02</em:version>
+        <em:version>16.01.08.05</em:version>
         <em:targetApplication>
           <Description>
             <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
             <em:minVersion>41.0</em:minVersion>
             <em:maxVersion>46.0a1</em:maxVersion>
-            <em:updateLink>https://git.oschina.net/halflife/xpi/raw/master/PuzzleBars2-15.11.24.02-signed.xpi</em:updateLink>
+            <em:updateLink>https://git.oschina.net/halflife/xpi/raw/master/PuzzleBars2-16.01.08.05-signed.xpi</em:updateLink>
           </Description>
         </em:targetApplication>
       </Description>
